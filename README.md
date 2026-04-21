@@ -1,38 +1,28 @@
-# Disaster Recovery & Business Continuity Plan
-Enterprise Disaster Recovery &amp; Business Continuity Plan (Healthcare-Focused)
+# Enterprise Disaster Recovery & Business Continuity Plan
 
 ## 📌 Overview
-This project outlines a comprehensive Disaster Recovery (DR) and Business Continuity Plan (BCP) designed for enterprise healthcare environments.
+This project demonstrates a complete Disaster Recovery (DR) and Business Continuity Plan (BCP) for an enterprise IT environment (Healthcare-focused).
 
 ## 🎯 Objective
-To ensure continuity of critical IT services during disruptions such as cyberattacks, system failures, or natural disasters.
+Ensure continuity of critical business operations during disruptions such as cyberattacks, system failures, or natural disasters.
 
 ## 🏗 Scope
-- Hospital Information Management System (HIMS)
-- Network Infrastructure
-- Servers and Databases
-- Endpoints and Critical Applications
+- IT Infrastructure
+- Critical Applications (HIMS, ERP)
+- Network & Security Systems
 
-## ⚠️ Risk Scenarios
-- Ransomware attack
-- Server failure
-- Network outage
-- Power failure
-- Natural disaster
+## ⚙️ Key Components
+- Risk Assessment
+- Business Impact Analysis (BIA)
+- Recovery Objectives (RTO, RPO)
+- Incident Response & Communication
+- DR Testing & Validation
 
-## ⏱ Key Metrics
-- RTO (Recovery Time Objective)
-- RPO (Recovery Point Objective)
+## 🔁 DR Strategy
+Primary Site → Backup Site → Data Replication → Failover → Recovery → Normal Operations
 
-## 🔄 Process
-1. Risk Assessment
-2. Business Impact Analysis (BIA)
-3. Backup Strategy
-4. Failover to DR Site
-5. Recovery Execution
-6. Testing & Validation
-
-## 📊 Results
-- Reduced downtime risk by 70%
-- Achieved RTO compliance within defined limits
-- Improved audit readiness (ISO 27001)
+## 📊 Key Outcomes
+- Defined RTO/RPO for all critical systems
+- Reduced downtime risk
+- Improved organizational resilience
+- Alignment with ISO 27001 & HIPAA
