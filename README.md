@@ -1,6 +1,5 @@
-# dr-bcp-enterprise
-Enterprise Disaster Recovery &amp; Business Continuity Plan (Healthcare-Focused)
 # Disaster Recovery & Business Continuity Plan
+Enterprise Disaster Recovery &amp; Business Continuity Plan (Healthcare-Focused)
 
 ## 📌 Overview
 This project outlines a comprehensive Disaster Recovery (DR) and Business Continuity Plan (BCP) designed for enterprise healthcare environments.
